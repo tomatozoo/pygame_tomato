@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\config\\__pycache__",
+    "\\pybo",
+    "\\pybo\\migrations",
+    "\\pybo\\__pycache__",
+    "\\static",
+    "\\templates",
+    "\\templates\\pybo",
+    "\\templatetags"
+  ],
+  "SelectedNode": "\\templatetags\\pybo_filter.py",
+  "PreviewInSolutionExplorer": false
+}
